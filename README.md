@@ -22,9 +22,6 @@
   <img src="https://imgur.com/hmD0KIs.png" width="200">
 </div>
 <br>
-<div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
-</div>
 
 <br>
 <br>
