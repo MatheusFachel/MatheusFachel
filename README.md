@@ -50,7 +50,7 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusFachel&theme=apprentice"
   />
   <img
     height=165
