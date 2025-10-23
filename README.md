@@ -47,7 +47,7 @@
   <!-- GitHub Trophies -->
   <div align="center">
     <h3>🏆 GitHub Achievements</h3>
-    <img src="https://github-profile-trophy.vercel.app/?username=MatheusFachel&theme=discord&no-frame=true&row=1&column=6&margin-h=15&margin-w=5" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=MatheusFachel&theme=monokai&no-frame=true&row=1&column=6&margin-h=15&margin-w=5" alt="GitHub Trophies" />
   </div>
 
   <br>
@@ -84,7 +84,7 @@
   <div align="center">
     <h3>📊 Contribution Graph</h3>
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusFachel&theme=midnight-purple&hide_border=true&area=true"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusFachel&theme=github-compact&hide_border=true&custom_title=Matheus%20Fachel's%20Contribution%20Graph&area=true&color=9943df&point=ffffff&line=9943df&bg_color=0d1117"
       alt="Contribution Graph"
     />
   </div>
