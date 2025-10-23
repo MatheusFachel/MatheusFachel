@@ -38,40 +38,97 @@
 <details align="center">  
   <summary>
       <samp>
-        <b>More Info</b>
+        <b>📊 GitHub Analytics & More Info</b>
       </samp>
   </summary>
   
   <br>
 
-<div align="center">
-  <img
-    height=165
-    align="center"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=MatheusFachel&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"
-  />
-  <img
-    height=165
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFachel&layout=compact&font=Iosevka&langs_count=16&theme=midnight-purple"
-  />
+  <!-- GitHub Trophies -->
+  <div align="center">
+    <h3>🏆 GitHub Achievements</h3>
+    <img src="https://github-profile-trophy.vercel.app/?username=MatheusFachel&theme=discord&no-frame=true&row=1&column=6&margin-h=15&margin-w=5" alt="GitHub Trophies" />
+  </div>
+
   <br>
+
+  <!-- Main Stats Grid -->
+  <div align="center">
+    <h3>📈 GitHub Statistics</h3>
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/?username=MatheusFachel&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&hide_border=true&include_all_commits=true"
+      alt="GitHub Stats"
+    />
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFachel&layout=compact&langs_count=12&theme=midnight-purple&hide_border=true&card_width=320"
+      alt="Top Languages"
+    />
+  </div>
+
   <br>
-  <img
-    align="center"
-    alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusFachel&theme=midnight_purple"
-  />
+
+  <!-- Contribution Activity -->
+  <div align="center">
+    <h3>🔥 Contribution Activity</h3>
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com?user=MatheusFachel&theme=midnight-purple&hide_border=true&card_width=800"
+      alt="GitHub Streak"
+    />
+  </div>
+
   <br>
+
+  <!-- Detailed Activity Graph -->
+  <div align="center">
+    <h3>📊 Contribution Graph</h3>
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusFachel&theme=github-compact&hide_border=true&custom_title=Annual%20Contribution%20Graph&area=true&color=9943df&point=ffffff"
+      alt="Contribution Graph"
+    />
+  </div>
+
   <br>
-  <img
-    height=154
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=MatheusFachel&theme=midnight-purple&card_width=885"
-  />
+
+  <!-- Profile Summary -->
+  <div align="center">
+    <h3>📋 Profile Summary</h3>
+    <img
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusFachel&theme=midnight_purple"
+      alt="Profile Summary"
+    />
+  </div>
+
+  <br>
+
+  <!-- Productivity Stats -->
+  <div align="center">
+    <h3>⚡ Productivity Metrics</h3>
+    <img
+      height="180em"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusFachel&theme=midnight_purple"
+      alt="Stats"
+    />
+    <img
+      height="180em" 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MatheusFachel&theme=midnight_purple&utc_offset=8"
+      alt="Productive Time"
+    />
+  </div>
+
+  <br>
+
+  <!-- GitHub Snake Animation -->
+  <div align="center">
+    <h3>🐍 Contribution Snake</h3>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusFachel/MatheusFachel/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusFachel/MatheusFachel/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MatheusFachel/MatheusFachel/output/github-contribution-grid-snake.svg">
+    </picture>
+  </div>
+
   </div>
 
 
