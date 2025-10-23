@@ -38,7 +38,7 @@
 <details align="center">  
   <summary>
       <samp>
-        <b>📊 GitHub Analytics & More Info</b>
+        <b>More Info</b>
       </samp>
   </summary>
   
@@ -73,7 +73,7 @@
   <div align="center">
     <h3>🔥 Contribution Activity</h3>
     <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=MatheusFachel&theme=midnight-purple&hide_border=true&card_width=800"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusFachel&theme=midnight-purple&hide_border=true"
       alt="GitHub Streak"
     />
   </div>
@@ -84,7 +84,7 @@
   <div align="center">
     <h3>📊 Contribution Graph</h3>
     <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusFachel&theme=github-compact&hide_border=true&custom_title=Annual%20Contribution%20Graph&area=true&color=9943df&point=ffffff"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusFachel&theme=midnight-purple&hide_border=true&area=true"
       alt="Contribution Graph"
     />
   </div>
@@ -122,11 +122,7 @@
   <!-- GitHub Snake Animation -->
   <div align="center">
     <h3>🐍 Contribution Snake</h3>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusFachel/MatheusFachel/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusFachel/MatheusFachel/output/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MatheusFachel/MatheusFachel/output/github-contribution-grid-snake.svg">
-    </picture>
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   </div>
 
   </div>
