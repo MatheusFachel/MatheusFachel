@@ -44,14 +44,6 @@
   
   <br>
 
-  <!-- GitHub Trophies -->
-  <div align="center">
-    <h3>🏆 GitHub Achievements</h3>
-    <img src="https://github-profile-trophy.vercel.app/?username=MatheusFachel&theme=monokai&no-frame=true&row=1&column=6&margin-h=15&margin-w=5" alt="GitHub Trophies" />
-  </div>
-
-  <br>
-
   <!-- Main Stats Grid -->
   <div align="center">
     <h3>📈 GitHub Statistics</h3>
@@ -69,51 +61,12 @@
 
   <br>
 
-  <!-- Contribution Activity -->
-  <div align="center">
-    <h3>🔥 Contribution Activity</h3>
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusFachel&theme=midnight-purple&hide_border=true"
-      alt="GitHub Streak"
-    />
-  </div>
-
-  <br>
-
   <!-- Detailed Activity Graph -->
   <div align="center">
     <h3>📊 Contribution Graph</h3>
     <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusFachel&theme=github-compact&hide_border=true&custom_title=Matheus%20Fachel's%20Contribution%20Graph&area=true&color=9943df&point=ffffff&line=9943df&bg_color=0d1117"
       alt="Contribution Graph"
-    />
-  </div>
-
-  <br>
-
-  <!-- Profile Summary -->
-  <div align="center">
-    <h3>📋 Profile Summary</h3>
-    <img
-      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusFachel&theme=midnight_purple"
-      alt="Profile Summary"
-    />
-  </div>
-
-  <br>
-
-  <!-- Productivity Stats -->
-  <div align="center">
-    <h3>⚡ Productivity Metrics</h3>
-    <img
-      height="180em"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusFachel&theme=midnight_purple"
-      alt="Stats"
-    />
-    <img
-      height="180em" 
-      src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MatheusFachel&theme=midnight_purple&utc_offset=8"
-      alt="Productive Time"
     />
   </div>
 
