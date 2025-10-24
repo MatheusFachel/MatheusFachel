@@ -44,9 +44,18 @@
   
   <br>
 
+  <!-- Detailed Activity Graph -->
+  <div align="center">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusFachel&theme=github-compact&hide_border=true&custom_title=Matheus%20Fachel's%20Contribution%20Graph&area=true&color=9943df&point=ffffff&line=9943df&bg_color=0d1117"
+      alt="Contribution Graph"
+    />
+  </div>
+
+  <br>
+
   <!-- Main Stats Grid -->
   <div align="center">
-    <h3>📈 GitHub Statistics</h3>
     <img
       height="180em"
       src="https://github-readme-stats.vercel.app/api/?username=MatheusFachel&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&hide_border=true&include_all_commits=true"
@@ -61,20 +70,8 @@
 
   <br>
 
-  <!-- Detailed Activity Graph -->
-  <div align="center">
-    <h3>📊 Contribution Graph</h3>
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusFachel&theme=github-compact&hide_border=true&custom_title=Matheus%20Fachel's%20Contribution%20Graph&area=true&color=9943df&point=ffffff&line=9943df&bg_color=0d1117"
-      alt="Contribution Graph"
-    />
-  </div>
-
-  <br>
-
   <!-- GitHub Snake Animation -->
   <div align="center">
-    <h3>🐍 Contribution Snake</h3>
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   </div>
 
