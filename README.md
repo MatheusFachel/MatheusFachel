@@ -109,7 +109,26 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=9943DF&center=true&width=600&lines=👨‍💻+Back-End+Developer+%7C+Full+Stack+Enthusiast;🚀+Passionate+about+Clean+Code+%26+Innovation;🌱+Always+Learning+New+Technologies" alt="About Me Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=9943DF&center=true&width=700&lines=👨‍💻+Full+Stack+Developer+%7C+Passionate+about+Technology;🚀+Building+Complete+Solutions+%7C+Backend+%26+Frontend;🌱+Always+Learning+%7C+Currently+exploring+AI+%26+Data;💡+From+IOS+to+Geração+Caldeira+%7C+Growing+in+Tech" alt="About Me Typing SVG"/>
+</div>
+
+<br>
+
+<div align="center">
+  <samp>
+    <b>Oi! Eu sou o Matheus Fachel 👋</b>
+  </samp>
+  <br><br>
+  <p align="center">
+    Desenvolvedor apaixonado por tecnologia e aprendizado constante.<br>
+    Concluí o ensino médio recentemente e iniciei minha trajetória em Desenvolvimento Web pelo <strong>IOS</strong> (Instituto da Oportunidade Social),<br>
+    com base sólida em Back-End e estudos contínuos pela <strong>Alura</strong>.
+  </p>
+  <br>
+  <p align="center">
+    Em <strong>2025</strong>, embarquei no <strong>Geração Caldeira</strong>, trilha de <strong>IA & Dados</strong>,<br>
+    uma oportunidade incrível de crescer dentro do maior polo de tecnologia do Sul do Brasil.
+  </p>
 </div>
 
 <br>
@@ -117,7 +136,7 @@
 <details align="center">
 <summary>
   <samp>
-    <b>� Featured Projects</b>
+    <b>🚀 Current Projects & Focus</b>
   </samp>
 </summary>
 
@@ -125,22 +144,22 @@
 
 <div align="center">
 
-| 📱 **Mobile Development** | 🌐 **Web Applications** | 🤖 **AI/ML Projects** |
-|:-------------------------:|:------------------------:|:----------------------:|
-| React Native ecosystem | Spring Boot + Angular | Python + TensorFlow |
-| Cross-platform solutions | Microservices architecture | Data analysis & ML models |
-| Modern UI/UX design | RESTful APIs development | Predictive analytics |
+| 🏢 **BRISA Development** | 💻 **PROCERGS/SUSTENTARE** | 🎓 **Geração Caldeira** |
+|:------------------------:|:---------------------------:|:------------------------:|
+| Software de Gerenciamento | Recondicionamento de PCs | IA & Data Science |
+| Ciclo completo de desenvolvimento | Equipamentos pós-enchentes RS | Maior polo tech do Sul |
+| Stakeholders → Entrega | Manutenção preventiva | Aprendizado contínuo |
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Mobile-React_Native-9943df?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Backend-Spring_Boot-9943df?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Frontend-Angular-9943df?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI/ML-Python-9943df?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Current_Stack-Python-9943df?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Database-PostgreSQL-9943df?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Learning-AI_%26_Data-9943df?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Education-Alura-9943df?style=for-the-badge&logo=alura&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Foundation-IOS-9943df?style=for-the-badge&logo=education&logoColor=white"/>
 </div>
 
 </details>
@@ -161,15 +180,13 @@
 ```mermaid
 timeline
     title Professional Timeline
-    2020 : Junior Developer
-         : Started coding journey
-         : Learning fundamentals
-    2021 : Full Stack Developer  
-         : Expanded skill set
-         : Built complete applications
-    2023 : Senior Backend Developer
-         : Leading development teams
-         : Architecting scalable solutions
+    2025 : Geração Caldeira - IA & Dados
+         : Maior polo tech do Sul
+         : Full Stack Developer - BRISA
+         : Jovem Aprendiz - PROCERGS
+    2024 : Desenvolvimento Web - IOS
+         : Fundação em Back-End
+         : Estudos contínuos - Alura
 ```
 
 </div>
@@ -180,18 +197,18 @@ timeline
 
 | 🏢 **Position** | 📅 **Period** | 📍 **Location** | 🛠️ **Focus** |
 |:---------------:|:-------------:|:---------------:|:-------------:|
-| **Senior Backend Developer** | 2023 - Present | Remote | System Architecture & Team Leadership |
-| **Full Stack Developer** | 2021 - 2022 | São Paulo, SP | Full-cycle Development |
-| **Junior Developer** | 2020 - 2021 | Porto Alegre, RS | Learning & Foundation Building |
+| **Full Stack Developer** | ago/2025 - atual | Canoas/RS (Híbrido) | Software de Gerenciamento - Python & PostgreSQL |
+| **Jovem Aprendiz - Técnico** | jan/2025 - atual | PROCERGS/RS | Manutenção de PCs & Projeto SUSTENTARE |
+| **Estudante Desenvolvimento Web** | 2024 | IOS + Alura | Fundação Back-End & Aprendizado Contínuo |
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Experience-5%2B_Years-9943df?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Projects-50%2B_Delivered-9943df?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Teams-10%2B_Led-9943df?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Started-2024-9943df?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Current_Roles-2_Active-9943df?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_AI-9943df?style=for-the-badge"/>
 </div>
 
 </details>
