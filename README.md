@@ -66,16 +66,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFachel&layout=compact&langs_count=12&theme=midnight-purple&hide_border=true&card_width=320"
       alt="Top Languages"
     />
-  </div>
-
-  <br>
-
-  <!-- GitHub Snake Animation -->
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  </div>
-
-  </div>
+  </div>  
 
 
 <br>
@@ -98,6 +89,94 @@
   [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=Discord&logoColor=9745f5)](ulybka.)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/matheus-fachel)
   
+</div>
+
+<br>
+<br>
+
+##
+
+<br>
+
+<div align="center">
+  <samp>
+    <b>
+      Sobre Mim
+    </b>
+  </samp>
+</div>
+
+<br>
+
+### 👨‍💻 Quem Sou Eu
+
+<div align="justify">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+</div>
+
+<br>
+
+### 🚀 Projetos em Destaque
+
+<details>
+<summary><b>📱 Projeto Mobile App</b></summary>
+<br>
+<p align="justify">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula, nulla at consectetur tempus, magna elit bibendum nunc, in cursus mi lacus eu massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+</p>
+<p><strong>Tecnologias:</strong> React Native, Node.js, MongoDB</p>
+</details>
+
+<details>
+<summary><b>🌐 Sistema Web Completo</b></summary>
+<br>
+<p align="justify">
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed vulputate eleifend magna. Donec auctor blandit quam. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
+</p>
+<p><strong>Tecnologias:</strong> Spring Boot, Angular, PostgreSQL</p>
+</details>
+
+<details>
+<summary><b>🤖 Projeto de Machine Learning</b></summary>
+<br>
+<p align="justify">
+Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum.
+</p>
+<p><strong>Tecnologias:</strong> Python, TensorFlow, Pandas, Scikit-learn</p>
+</details>
+
+<br>
+
+### 💼 Experiência Profissional
+
+<div align="left">
+
+**🏢 Senior Backend Developer** | *Empresa Tech Solutions*  
+📅 *Janeiro 2023 - Presente*  
+📍 *Remoto*
+
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit
+- Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+- Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+
+**🏢 Full Stack Developer** | *StartUp Inovadora*  
+📅 *Março 2021 - Dezembro 2022*  
+📍 *São Paulo, SP*
+
+- Duis aute irure dolor in reprehenderit in voluptate velit esse
+- Cillum dolore eu fugiat nulla pariatur excepteur sint occaecat
+- Cupidatat non proident, sunt in culpa qui officia deserunt
+
+**🏢 Junior Developer** | *Empresa de Desenvolvimento*  
+📅 *Junho 2020 - Fevereiro 2021*  
+📍 *Porto Alegre, RS*
+
+- Mollit anim id est laborum sed ut perspiciatis unde omnis
+- Iste natus error sit voluptatem accusantium doloremque
+- Laudantium totam rem aperiam eaque ipsa quae ab illo
+
 </div>
 
 ###
