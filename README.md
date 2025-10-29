@@ -101,83 +101,100 @@
 <div align="center">
   <samp>
     <b>
-      Sobre Mim
+      About Me
     </b>
   </samp>
 </div>
 
 <br>
 
-### 👨‍💻 Quem Sou Eu
-
-<div align="justify">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=9943DF&center=true&width=600&lines=👨‍💻+Back-End+Developer+%7C+Full+Stack+Enthusiast;🚀+Passionate+about+Clean+Code+%26+Innovation;🌱+Always+Learning+New+Technologies" alt="About Me Typing SVG"/>
 </div>
 
 <br>
 
-### 🚀 Projetos em Destaque
-
-<details>
-<summary><b>📱 Projeto Mobile App</b></summary>
-<br>
-<p align="justify">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula, nulla at consectetur tempus, magna elit bibendum nunc, in cursus mi lacus eu massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-</p>
-<p><strong>Tecnologias:</strong> React Native, Node.js, MongoDB</p>
-</details>
-
-<details>
-<summary><b>🌐 Sistema Web Completo</b></summary>
-<br>
-<p align="justify">
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed vulputate eleifend magna. Donec auctor blandit quam. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
-</p>
-<p><strong>Tecnologias:</strong> Spring Boot, Angular, PostgreSQL</p>
-</details>
-
-<details>
-<summary><b>🤖 Projeto de Machine Learning</b></summary>
-<br>
-<p align="justify">
-Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum.
-</p>
-<p><strong>Tecnologias:</strong> Python, TensorFlow, Pandas, Scikit-learn</p>
-</details>
+<details align="center">
+<summary>
+  <samp>
+    <b>� Featured Projects</b>
+  </samp>
+</summary>
 
 <br>
 
-### 💼 Experiência Profissional
+<div align="center">
 
-<div align="left">
-
-**🏢 Senior Backend Developer** | *Empresa Tech Solutions*  
-📅 *Janeiro 2023 - Presente*  
-📍 *Remoto*
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit
-- Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
-- Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-
-**🏢 Full Stack Developer** | *StartUp Inovadora*  
-📅 *Março 2021 - Dezembro 2022*  
-📍 *São Paulo, SP*
-
-- Duis aute irure dolor in reprehenderit in voluptate velit esse
-- Cillum dolore eu fugiat nulla pariatur excepteur sint occaecat
-- Cupidatat non proident, sunt in culpa qui officia deserunt
-
-**🏢 Junior Developer** | *Empresa de Desenvolvimento*  
-📅 *Junho 2020 - Fevereiro 2021*  
-📍 *Porto Alegre, RS*
-
-- Mollit anim id est laborum sed ut perspiciatis unde omnis
-- Iste natus error sit voluptatem accusantium doloremque
-- Laudantium totam rem aperiam eaque ipsa quae ab illo
+| 📱 **Mobile Development** | 🌐 **Web Applications** | 🤖 **AI/ML Projects** |
+|:-------------------------:|:------------------------:|:----------------------:|
+| React Native ecosystem | Spring Boot + Angular | Python + TensorFlow |
+| Cross-platform solutions | Microservices architecture | Data analysis & ML models |
+| Modern UI/UX design | RESTful APIs development | Predictive analytics |
 
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Mobile-React_Native-9943df?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend-Spring_Boot-9943df?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Frontend-Angular-9943df?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI/ML-Python-9943df?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-9943df?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</div>
+
+</details>
+
+<br>
+
+<details align="center">
+<summary>
+  <samp>
+    <b>💼 Professional Journey</b>
+  </samp>
+</summary>
+
+<br>
+
+<div align="center">
+
+```mermaid
+timeline
+    title Professional Timeline
+    2020 : Junior Developer
+         : Started coding journey
+         : Learning fundamentals
+    2021 : Full Stack Developer  
+         : Expanded skill set
+         : Built complete applications
+    2023 : Senior Backend Developer
+         : Leading development teams
+         : Architecting scalable solutions
+```
+
+</div>
+
+<br>
+
+<div align="center">
+
+| 🏢 **Position** | 📅 **Period** | 📍 **Location** | 🛠️ **Focus** |
+|:---------------:|:-------------:|:---------------:|:-------------:|
+| **Senior Backend Developer** | 2023 - Present | Remote | System Architecture & Team Leadership |
+| **Full Stack Developer** | 2021 - 2022 | São Paulo, SP | Full-cycle Development |
+| **Junior Developer** | 2020 - 2021 | Porto Alegre, RS | Learning & Foundation Building |
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Experience-5%2B_Years-9943df?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Projects-50%2B_Delivered-9943df?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Teams-10%2B_Led-9943df?style=for-the-badge"/>
+</div>
+
+</details>
 
 ###
 
